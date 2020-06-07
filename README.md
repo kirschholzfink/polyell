@@ -2,8 +2,7 @@
 
 Aufgabe 2.3:Polyell von Stochastika
 
-Alle 7 Millisekunden treffen sich eine beliebige Anzahl n von Reitern in Stochastika, um ihr berühm-
-tes Polyell auszutragen. Jeder Reiter meldet sich zu Turnierbeginn mit der Angabe seiner Aus-dem-
+Alle 7 Millisekunden treffen sich eine beliebige Anzahl n von Reitern in Stochastika, um ihr berühmtes Polyell auszutragen. Jeder Reiter meldet sich zu Turnierbeginn mit der Angabe seiner Aus-dem-
 Sattel-Stoß-Wahrscheinlichkeit an. Die Turnierteilnehmer reiten danach im Kreis. Der schwächste Rei-
 ter (Nr. 1) beginnt und versucht, seinen Vordermann (Nr. 2) aus dem Sattel zu stoßen. Sitzt Nr. 2
 anschließend noch im Sattel, so ist er als Nächster dran. Andernfalls ist Nr. 3 (der Vordermann von
